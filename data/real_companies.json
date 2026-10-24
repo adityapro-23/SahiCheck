@@ -1,0 +1,718 @@
+{
+  "companies": [
+    {
+      "name": "Tata Consultancy Services",
+      "aliases": ["tcs", "tata consultancy", "tata consultancy services ltd", "tcs ion", "tcs nqt", "tcs bps"],
+      "official_domains": ["tcs.com", "tcsion.com"],
+      "careers_url": "https://www.tcs.com/careers"
+    },
+    {
+      "name": "Infosys",
+      "aliases": ["infosys", "infosys limited", "infosys bpm", "infytq", "infosys finacle"],
+      "official_domains": ["infosys.com"],
+      "careers_url": "https://www.infosys.com/careers/"
+    },
+    {
+      "name": "Wipro",
+      "aliases": ["wipro", "wipro limited", "wipro technologies", "wipro wilp", "wipro enterprises"],
+      "official_domains": ["wipro.com"],
+      "careers_url": "https://careers.wipro.com"
+    },
+    {
+      "name": "HCLTech",
+      "aliases": ["hcl", "hcltech", "hcl technologies", "hcl software", "hcl techbee"],
+      "official_domains": ["hcltech.com", "hcl.com"],
+      "careers_url": "https://www.hcltech.com/careers"
+    },
+    {
+      "name": "Tech Mahindra",
+      "aliases": ["tech mahindra", "techm", "tech mahindra ltd", "tech mahindra bps"],
+      "official_domains": ["techmahindra.com"],
+      "careers_url": "https://careers.techmahindra.com"
+    },
+    {
+      "name": "LTIMindtree",
+      "aliases": ["ltimindtree", "lti", "mindtree", "larsen and toubro infotech"],
+      "official_domains": ["ltimindtree.com"],
+      "careers_url": "https://www.ltimindtree.com/careers/"
+    },
+    {
+      "name": "L&T Technology Services",
+      "aliases": ["ltts", "l&t technology services", "larsen & toubro technology services"],
+      "official_domains": ["ltts.com"],
+      "careers_url": "https://www.ltts.com/careers"
+    },
+    {
+      "name": "Larsen & Toubro",
+      "aliases": ["l&t", "larsen and toubro", "larsen & toubro limited"],
+      "official_domains": ["larsentoubro.com"],
+      "careers_url": "https://www.larsentoubro.com/corporate/careers/"
+    },
+    {
+      "name": "Mphasis",
+      "aliases": ["mphasis", "mphasis limited"],
+      "official_domains": ["mphasis.com"],
+      "careers_url": "https://careers.mphasis.com"
+    },
+    {
+      "name": "Persistent Systems",
+      "aliases": ["persistent", "persistent systems", "persistent systems ltd"],
+      "official_domains": ["persistent.com"],
+      "careers_url": "https://www.persistent.com/careers/"
+    },
+    {
+      "name": "Coforge",
+      "aliases": ["coforge", "coforge limited", "niit technologies"],
+      "official_domains": ["coforge.com"],
+      "careers_url": "https://www.coforge.com/careers"
+    },
+    {
+      "name": "Hexaware Technologies",
+      "aliases": ["hexaware", "hexaware technologies"],
+      "official_domains": ["hexaware.com"],
+      "careers_url": "https://hexaware.com/careers/"
+    },
+    {
+      "name": "Zensar Technologies",
+      "aliases": ["zensar", "zensar technologies"],
+      "official_domains": ["zensar.com"],
+      "careers_url": "https://www.zensar.com/careers"
+    },
+    {
+      "name": "KPIT Technologies",
+      "aliases": ["kpit", "kpit technologies", "kpit tech"],
+      "official_domains": ["kpit.com"],
+      "careers_url": "https://www.kpit.com/careers/"
+    },
+    {
+      "name": "Birlasoft",
+      "aliases": ["birlasoft", "birlasoft limited"],
+      "official_domains": ["birlasoft.com"],
+      "careers_url": "https://www.birlasoft.com/careers"
+    },
+    {
+      "name": "Cyient",
+      "aliases": ["cyient", "cyient limited"],
+      "official_domains": ["cyient.com"],
+      "careers_url": "https://www.cyient.com/careers"
+    },
+    {
+      "name": "Sonata Software",
+      "aliases": ["sonata", "sonata software"],
+      "official_domains": ["sonata-software.com"],
+      "careers_url": "https://www.sonata-software.com/careers"
+    },
+    {
+      "name": "Tata Elxsi",
+      "aliases": ["tata elxsi", "elxsi"],
+      "official_domains": ["tataelxsi.com"],
+      "careers_url": "https://www.tataelxsi.com/careers"
+    },
+    {
+      "name": "Sasken Technologies",
+      "aliases": ["sasken", "sasken technologies"],
+      "official_domains": ["sasken.com"],
+      "careers_url": "https://www.sasken.com/careers"
+    },
+    {
+      "name": "Happiest Minds Technologies",
+      "aliases": ["happiest minds", "happiest minds technologies"],
+      "official_domains": ["happiestminds.com"],
+      "careers_url": "https://www.happiestminds.com/careers/"
+    },
+    {
+      "name": "Mastek",
+      "aliases": ["mastek", "mastek limited"],
+      "official_domains": ["mastek.com"],
+      "careers_url": "https://www.mastek.com/careers/"
+    },
+    {
+      "name": "Newgen Software",
+      "aliases": ["newgen", "newgen software", "newgen soft"],
+      "official_domains": ["newgensoft.com"],
+      "careers_url": "https://newgensoft.com/company/careers/"
+    },
+    {
+      "name": "eClerx",
+      "aliases": ["eclerx", "eclerx services"],
+      "official_domains": ["eclerx.com"],
+      "careers_url": "https://eclerx.com/careers/"
+    },
+    {
+      "name": "Firstsource Solutions",
+      "aliases": ["firstsource", "firstsource solutions"],
+      "official_domains": ["firstsource.com"],
+      "careers_url": "https://www.firstsource.com/careers"
+    },
+    {
+      "name": "WNS Global Services",
+      "aliases": ["wns", "wns global", "wns global services"],
+      "official_domains": ["wns.com"],
+      "careers_url": "https://www.wns.com/careers"
+    },
+    {
+      "name": "EXL Service",
+      "aliases": ["exl", "exl service", "exl analytics"],
+      "official_domains": ["exlservice.com"],
+      "careers_url": "https://www.exlservice.com/careers"
+    },
+    {
+      "name": "Genpact",
+      "aliases": ["genpact", "genpact india"],
+      "official_domains": ["genpact.com"],
+      "careers_url": "https://www.genpact.com/careers"
+    },
+    {
+      "name": "Mu Sigma",
+      "aliases": ["mu sigma", "musigma"],
+      "official_domains": ["mu-sigma.com"],
+      "careers_url": "https://www.mu-sigma.com/careers/"
+    },
+    {
+      "name": "Fractal Analytics",
+      "aliases": ["fractal", "fractal analytics"],
+      "official_domains": ["fractal.ai"],
+      "careers_url": "https://fractal.ai/careers/"
+    },
+    {
+      "name": "Accenture",
+      "aliases": ["accenture", "accenture india", "accenture solutions", "accenture technology"],
+      "official_domains": ["accenture.com"],
+      "careers_url": "https://www.accenture.com/in-en/careers"
+    },
+    {
+      "name": "Capgemini",
+      "aliases": ["capgemini", "capgemini india", "capgemini technology services", "capgemini engineering"],
+      "official_domains": ["capgemini.com"],
+      "careers_url": "https://www.capgemini.com/in-en/careers/"
+    },
+    {
+      "name": "Cognizant",
+      "aliases": ["cognizant", "cts", "cognizant technology solutions", "cognizant genc"],
+      "official_domains": ["cognizant.com"],
+      "careers_url": "https://careers.cognizant.com/india-en/"
+    },
+    {
+      "name": "IBM",
+      "aliases": ["ibm", "ibm india", "ibm consulting", "ibm research"],
+      "official_domains": ["ibm.com", "in.ibm.com"],
+      "careers_url": "https://www.ibm.com/in-en/careers"
+    },
+    {
+      "name": "DXC Technology",
+      "aliases": ["dxc", "dxc technology"],
+      "official_domains": ["dxc.com"],
+      "careers_url": "https://dxc.com/in/en/careers"
+    },
+    {
+      "name": "NTT DATA",
+      "aliases": ["ntt data", "nttdata", "ntt data services"],
+      "official_domains": ["nttdata.com"],
+      "careers_url": "https://www.nttdata.com/global/en/careers"
+    },
+    {
+      "name": "Atos",
+      "aliases": ["atos", "atos syntel", "eviden"],
+      "official_domains": ["atos.net", "eviden.com"],
+      "careers_url": "https://atos.net/en/careers"
+    },
+    {
+      "name": "EPAM Systems",
+      "aliases": ["epam", "epam systems", "epam india"],
+      "official_domains": ["epam.com"],
+      "careers_url": "https://www.epam.com/careers"
+    },
+    {
+      "name": "Thoughtworks",
+      "aliases": ["thoughtworks", "thoughtworks india"],
+      "official_domains": ["thoughtworks.com"],
+      "careers_url": "https://www.thoughtworks.com/en-in/careers"
+    },
+    {
+      "name": "Publicis Sapient",
+      "aliases": ["publicis sapient", "sapient"],
+      "official_domains": ["publicissapient.com"],
+      "careers_url": "https://careers.publicissapient.com"
+    },
+    {
+      "name": "Globant",
+      "aliases": ["globant", "globant india"],
+      "official_domains": ["globant.com"],
+      "careers_url": "https://www.globant.com/careers"
+    },
+    {
+      "name": "Nagarro",
+      "aliases": ["nagarro", "nagarro software"],
+      "official_domains": ["nagarro.com"],
+      "careers_url": "https://www.nagarro.com/en/careers"
+    },
+    {
+      "name": "Virtusa",
+      "aliases": ["virtusa", "virtusa consulting"],
+      "official_domains": ["virtusa.com"],
+      "careers_url": "https://www.virtusa.com/careers"
+    },
+    {
+      "name": "UST",
+      "aliases": ["ust", "ust global"],
+      "official_domains": ["ust.com"],
+      "careers_url": "https://www.ust.com/en/careers"
+    },
+    {
+      "name": "Deloitte",
+      "aliases": ["deloitte", "deloitte india", "deloitte usi", "deloitte touhmatsu"],
+      "official_domains": ["deloitte.com"],
+      "careers_url": "https://www2.deloitte.com/ui/en/careers/careers.html"
+    },
+    {
+      "name": "EY",
+      "aliases": ["ey", "ernst & young", "ernst and young", "ey gds", "ey india"],
+      "official_domains": ["ey.com", "in.ey.com"],
+      "careers_url": "https://www.ey.com/en_in/careers"
+    },
+    {
+      "name": "PwC",
+      "aliases": ["pwc", "pricewaterhousecoopers", "pwc india", "pwc ac", "pwc acceleration center"],
+      "official_domains": ["pwc.com", "pwc.in"],
+      "careers_url": "https://www.pwc.in/careers.html"
+    },
+    {
+      "name": "KPMG",
+      "aliases": ["kpmg", "kpmg india", "kpmg global services", "kgs"],
+      "official_domains": ["kpmg.com"],
+      "careers_url": "https://kpmg.com/in/en/home/careers.html"
+    },
+    {
+      "name": "McKinsey & Company",
+      "aliases": ["mckinsey", "mckinsey & company", "mckinsey digital"],
+      "official_domains": ["mckinsey.com"],
+      "careers_url": "https://www.mckinsey.com/careers"
+    },
+    {
+      "name": "Boston Consulting Group",
+      "aliases": ["bcg", "boston consulting group", "bcg x"],
+      "official_domains": ["bcg.com"],
+      "careers_url": "https://careers.bcg.com"
+    },
+    {
+      "name": "Bain & Company",
+      "aliases": ["bain", "bain & company", "bain capability network", "bcn"],
+      "official_domains": ["bain.com"],
+      "careers_url": "https://www.bain.com/careers/"
+    },
+    {
+      "name": "ZS Associates",
+      "aliases": ["zs", "zs associates", "zs india"],
+      "official_domains": ["zs.com"],
+      "careers_url": "https://www.zs.com/careers"
+    },
+    {
+      "name": "Google",
+      "aliases": ["google", "google india", "alphabet", "google cloud"],
+      "official_domains": ["google.com", "alphabet.com"],
+      "careers_url": "https://www.google.com/about/careers/"
+    },
+    {
+      "name": "Microsoft",
+      "aliases": ["microsoft", "microsoft india", "microsoft idc"],
+      "official_domains": ["microsoft.com"],
+      "careers_url": "https://careers.microsoft.com"
+    },
+    {
+      "name": "Amazon",
+      "aliases": ["amazon", "amazon india", "aws", "amazon web services", "amazon development centre"],
+      "official_domains": ["amazon.com", "amazon.in", "amazon.jobs"],
+      "careers_url": "https://www.amazon.jobs/en/"
+    },
+    {
+      "name": "Apple",
+      "aliases": ["apple", "apple india"],
+      "official_domains": ["apple.com"],
+      "careers_url": "https://www.apple.com/careers/in/"
+    },
+    {
+      "name": "Meta",
+      "aliases": ["meta", "facebook", "meta platforms"],
+      "official_domains": ["meta.com", "fb.com", "metacareers.com"],
+      "careers_url": "https://www.metacareers.com"
+    },
+    {
+      "name": "Adobe",
+      "aliases": ["adobe", "adobe india", "adobe systems"],
+      "official_domains": ["adobe.com"],
+      "careers_url": "https://www.adobe.com/careers.html"
+    },
+    {
+      "name": "Oracle",
+      "aliases": ["oracle", "oracle india", "oracle financial services", "ofss"],
+      "official_domains": ["oracle.com"],
+      "careers_url": "https://www.oracle.com/in/careers/"
+    },
+    {
+      "name": "SAP",
+      "aliases": ["sap", "sap labs", "sap labs india"],
+      "official_domains": ["sap.com"],
+      "careers_url": "https://www.sap.com/india/about/careers.html"
+    },
+    {
+      "name": "Salesforce",
+      "aliases": ["salesforce", "salesforce india", "tableau", "slack"],
+      "official_domains": ["salesforce.com"],
+      "careers_url": "https://careers.salesforce.com"
+    },
+    {
+      "name": "Cisco",
+      "aliases": ["cisco", "cisco systems", "cisco india"],
+      "official_domains": ["cisco.com"],
+      "careers_url": "https://www.cisco.com/c/en_in/about/careers.html"
+    },
+    {
+      "name": "Intel",
+      "aliases": ["intel", "intel india", "intel corporation"],
+      "official_domains": ["intel.com"],
+      "careers_url": "https://jobs.intel.com"
+    },
+    {
+      "name": "NVIDIA",
+      "aliases": ["nvidia", "nvidia india", "nvidia graphics"],
+      "official_domains": ["nvidia.com"],
+      "careers_url": "https://www.nvidia.com/en-in/about-nvidia/careers/"
+    },
+    {
+      "name": "Qualcomm",
+      "aliases": ["qualcomm", "qualcomm india"],
+      "official_domains": ["qualcomm.com"],
+      "careers_url": "https://www.qualcomm.com/company/careers"
+    },
+    {
+      "name": "AMD",
+      "aliases": ["amd", "advanced micro devices", "amd india"],
+      "official_domains": ["amd.com"],
+      "careers_url": "https://careers.amd.com"
+    },
+    {
+      "name": "Samsung",
+      "aliases": ["samsung", "samsung india", "samsung r&d", "sri-b", "sri-n", "sri-d"],
+      "official_domains": ["samsung.com"],
+      "careers_url": "https://www.samsung.com/in/about-us/careers/"
+    },
+    {
+      "name": "Dell Technologies",
+      "aliases": ["dell", "dell technologies", "dell india"],
+      "official_domains": ["dell.com"],
+      "careers_url": "https://jobs.dell.com"
+    },
+    {
+      "name": "HP",
+      "aliases": ["hp", "hewlett packard", "hp inc", "hpe", "hewlett packard enterprise"],
+      "official_domains": ["hp.com", "hpe.com"],
+      "careers_url": "https://jobs.hp.com"
+    },
+    {
+      "name": "ServiceNow",
+      "aliases": ["servicenow", "service now", "servicenow india"],
+      "official_domains": ["servicenow.com"],
+      "careers_url": "https://careers.servicenow.com"
+    },
+    {
+      "name": "Atlassian",
+      "aliases": ["atlassian", "atlassian india"],
+      "official_domains": ["atlassian.com"],
+      "careers_url": "https://www.atlassian.com/company/careers"
+    },
+    {
+      "name": "Intuit",
+      "aliases": ["intuit", "intuit india"],
+      "official_domains": ["intuit.com"],
+      "careers_url": "https://www.intuit.com/careers/"
+    },
+    {
+      "name": "Uber",
+      "aliases": ["uber", "uber india", "uber technologies"],
+      "official_domains": ["uber.com"],
+      "careers_url": "https://www.uber.com/in/en/careers/"
+    },
+    {
+      "name": "Stripe",
+      "aliases": ["stripe", "stripe india"],
+      "official_domains": ["stripe.com"],
+      "careers_url": "https://stripe.com/jobs"
+    },
+    {
+      "name": "MongoDB",
+      "aliases": ["mongodb", "mongodb india"],
+      "official_domains": ["mongodb.com"],
+      "careers_url": "https://www.mongodb.com/careers"
+    },
+    {
+      "name": "Zoho",
+      "aliases": ["zoho", "zoho corporation", "zoho corp", "manageengine"],
+      "official_domains": ["zoho.com", "zohocorp.com"],
+      "careers_url": "https://www.zoho.com/careers/"
+    },
+    {
+      "name": "Freshworks",
+      "aliases": ["freshworks", "freshdesk"],
+      "official_domains": ["freshworks.com"],
+      "careers_url": "https://www.freshworks.com/company/careers/"
+    },
+    {
+      "name": "Flipkart",
+      "aliases": ["flipkart", "flipkart internet", "myntra", "cleartrip"],
+      "official_domains": ["flipkart.com", "flipkartcareers.com", "myntra.com"],
+      "careers_url": "https://www.flipkartcareers.com"
+    },
+    {
+      "name": "Paytm",
+      "aliases": ["paytm", "one97 communications", "paytm money", "paytm payments bank"],
+      "official_domains": ["paytm.com"],
+      "careers_url": "https://paytm.com/careers/"
+    },
+    {
+      "name": "PhonePe",
+      "aliases": ["phonepe", "phone pe"],
+      "official_domains": ["phonepe.com"],
+      "careers_url": "https://www.phonepe.com/careers/"
+    },
+    {
+      "name": "Razorpay",
+      "aliases": ["razorpay", "razorpay software"],
+      "official_domains": ["razorpay.com"],
+      "careers_url": "https://razorpay.com/jobs/"
+    },
+    {
+      "name": "Zerodha",
+      "aliases": ["zerodha", "zerodha broking", "zerodha tech"],
+      "official_domains": ["zerodha.com", "zerodha.tech"],
+      "careers_url": "https://zerodha.com/careers/"
+    },
+    {
+      "name": "Groww",
+      "aliases": ["groww", "nextbillion technology"],
+      "official_domains": ["groww.in"],
+      "careers_url": "https://groww.in/careers"
+    },
+    {
+      "name": "CRED",
+      "aliases": ["cred", "dreamplug technologies", "cred.club"],
+      "official_domains": ["cred.club"],
+      "careers_url": "https://careers.cred.club"
+    },
+    {
+      "name": "Swiggy",
+      "aliases": ["swiggy", "bundl technologies", "swiggy instamart"],
+      "official_domains": ["swiggy.com", "swiggy.in"],
+      "careers_url": "https://careers.swiggy.com"
+    },
+    {
+      "name": "Zomato",
+      "aliases": ["zomato", "zomato limited", "blinkit"],
+      "official_domains": ["zomato.com", "blinkit.com"],
+      "careers_url": "https://www.zomato.com/careers"
+    },
+    {
+      "name": "Meesho",
+      "aliases": ["meesho", "fashnear technologies"],
+      "official_domains": ["meesho.com", "meesho.io"],
+      "careers_url": "https://www.meesho.io/jobs"
+    },
+    {
+      "name": "Ola",
+      "aliases": ["ola", "ola cabs", "ola electric", "ani technologies", "krutrim"],
+      "official_domains": ["olacabs.com", "olaelectric.com", "olakrutrim.com"],
+      "careers_url": "https://www.olaelectric.com/careers"
+    },
+    {
+      "name": "Postman",
+      "aliases": ["postman", "postman inc"],
+      "official_domains": ["postman.com"],
+      "careers_url": "https://www.postman.com/company/careers/"
+    },
+    {
+      "name": "BrowserStack",
+      "aliases": ["browserstack", "browser stack"],
+      "official_domains": ["browserstack.com"],
+      "careers_url": "https://www.browserstack.com/careers"
+    },
+    {
+      "name": "Wingify",
+      "aliases": ["wingify", "vwo"],
+      "official_domains": ["wingify.com", "vwo.com"],
+      "careers_url": "https://wingify.com/careers/"
+    },
+    {
+      "name": "Juspay",
+      "aliases": ["juspay", "juspay technologies"],
+      "official_domains": ["juspay.in", "juspay.io"],
+      "careers_url": "https://juspay.io/careers"
+    },
+    {
+      "name": "Pine Labs",
+      "aliases": ["pine labs", "pinelabs"],
+      "official_domains": ["pinelabs.com"],
+      "careers_url": "https://www.pinelabs.com/careers"
+    },
+    {
+      "name": "BharatPe",
+      "aliases": ["bharatpe", "resilient innovations"],
+      "official_domains": ["bharatpe.com"],
+      "careers_url": "https://bharatpe.com/careers/"
+    },
+    {
+      "name": "Policybazaar",
+      "aliases": ["policybazaar", "pb fintech", "paisabazaar"],
+      "official_domains": ["policybazaar.com", "paisabazaar.com"],
+      "careers_url": "https://www.policybazaar.com/careers/"
+    },
+    {
+      "name": "Nykaa",
+      "aliases": ["nykaa", "fsn e-commerce"],
+      "official_domains": ["nykaa.com"],
+      "careers_url": "https://www.nykaa.com/careers"
+    },
+    {
+      "name": "Zepto",
+      "aliases": ["zepto", "kiranakart technologies"],
+      "official_domains": ["zeptonow.com"],
+      "careers_url": "https://www.zeptonow.com/careers"
+    },
+    {
+      "name": "Unacademy",
+      "aliases": ["unacademy", "sorting hat technologies"],
+      "official_domains": ["unacademy.com"],
+      "careers_url": "https://unacademy.com/careers"
+    },
+    {
+      "name": "Physics Wallah",
+      "aliases": ["physics wallah", "pw", "pw ioi", "physicswallah"],
+      "official_domains": ["pw.live"],
+      "careers_url": "https://www.pw.live/careers"
+    },
+    {
+      "name": "Reliance Jio",
+      "aliases": ["jio", "reliance jio", "jio platforms", "reliance industries", "ril"],
+      "official_domains": ["jio.com", "ril.com"],
+      "careers_url": "https://careers.jio.com"
+    },
+    {
+      "name": "Bharti Airtel",
+      "aliases": ["airtel", "bharti airtel", "airtel digital", "airtel xstream"],
+      "official_domains": ["airtel.in", "airtel.com"],
+      "careers_url": "https://www.airtel.in/careers/"
+    },
+    {
+      "name": "Mahindra & Mahindra",
+      "aliases": ["mahindra", "mahindra and mahindra", "m&m", "mahindra group"],
+      "official_domains": ["mahindra.com"],
+      "careers_url": "https://jobs.mahindra.com"
+    },
+    {
+      "name": "Tata Motors",
+      "aliases": ["tata motors", "tata passenger electric mobility"],
+      "official_domains": ["tatamotors.com"],
+      "careers_url": "https://www.tatamotors.com/careers/"
+    },
+    {
+      "name": "Bajaj Finserv",
+      "aliases": ["bajaj finserv", "bajaj finance", "bajaj finserv health"],
+      "official_domains": ["bajajfinserv.in"],
+      "careers_url": "https://www.bajajfinserv.in/careers"
+    },
+    {
+      "name": "HDFC Bank",
+      "aliases": ["hdfc", "hdfc bank", "hdfc ltd"],
+      "official_domains": ["hdfcbank.com"],
+      "careers_url": "https://www.hdfcbank.com/personal/about-us/careers"
+    },
+    {
+      "name": "ICICI Bank",
+      "aliases": ["icici", "icici bank", "icici lombard", "icici prudential"],
+      "official_domains": ["icicibank.com", "icicicareers.com"],
+      "careers_url": "https://www.icicicareers.com"
+    },
+    {
+      "name": "Axis Bank",
+      "aliases": ["axis", "axis bank"],
+      "official_domains": ["axisbank.com"],
+      "careers_url": "https://www.axisbank.com/careers"
+    },
+    {
+      "name": "Kotak Mahindra Bank",
+      "aliases": ["kotak", "kotak bank", "kotak mahindra bank"],
+      "official_domains": ["kotak.com"],
+      "careers_url": "https://www.kotak.com/en/about-us/careers.html"
+    },
+    {
+      "name": "State Bank of India",
+      "aliases": ["sbi", "state bank of india"],
+      "official_domains": ["sbi.co.in", "bank.sbi"],
+      "careers_url": "https://sbi.co.in/web/careers"
+    },
+    {
+      "name": "JPMorgan Chase",
+      "aliases": ["jpmorgan", "jp morgan", "jpmorgan chase", "jpmc"],
+      "official_domains": ["jpmorganchase.com", "jpmorgan.com"],
+      "careers_url": "https://careers.jpmorgan.com"
+    },
+    {
+      "name": "Goldman Sachs",
+      "aliases": ["goldman sachs", "goldman sachs india"],
+      "official_domains": ["goldmansachs.com", "gs.com"],
+      "careers_url": "https://www.goldmansachs.com/careers/"
+    },
+    {
+      "name": "Morgan Stanley",
+      "aliases": ["morgan stanley", "morgan stanley india"],
+      "official_domains": ["morganstanley.com"],
+      "careers_url": "https://www.morganstanley.com/people-opportunities"
+    },
+    {
+      "name": "Barclays",
+      "aliases": ["barclays", "barclays india", "barclays global service centre"],
+      "official_domains": ["barclays.com", "home.barclays"],
+      "careers_url": "https://search.jobs.barclays"
+    },
+    {
+      "name": "Citi",
+      "aliases": ["citi", "citibank", "citigroup", "citicorp", "citi india"],
+      "official_domains": ["citi.com", "citigroup.com"],
+      "careers_url": "https://jobs.citi.com"
+    },
+    {
+      "name": "Deutsche Bank",
+      "aliases": ["deutsche bank", "db", "dbi", "deutsche india"],
+      "official_domains": ["db.com"],
+      "careers_url": "https://careers.db.com"
+    },
+    {
+      "name": "HSBC",
+      "aliases": ["hsbc", "hsbc india", "hsbc technology india"],
+      "official_domains": ["hsbc.com", "hsbc.co.in"],
+      "careers_url": "https://www.hsbc.com/careers"
+    },
+    {
+      "name": "Mastercard",
+      "aliases": ["mastercard", "mastercard india"],
+      "official_domains": ["mastercard.com"],
+      "careers_url": "https://careers.mastercard.com"
+    },
+    {
+      "name": "Visa",
+      "aliases": ["visa", "visa inc", "visa india"],
+      "official_domains": ["visa.com", "visa.co.in"],
+      "careers_url": "https://www.visa.co.in/careers.html"
+    },
+    {
+      "name": "American Express",
+      "aliases": ["american express", "amex", "amex india"],
+      "official_domains": ["americanexpress.com", "aexp.com"],
+      "careers_url": "https://www.americanexpress.com/en-in/careers/"
+    },
+    {
+      "name": "Fidelity Investments",
+      "aliases": ["fidelity", "fidelity investments", "fmr india"],
+      "official_domains": ["fidelity.com"],
+      "careers_url": "https://india.fidelity.com"
+    }
+  ]
+}

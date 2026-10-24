@@ -1,0 +1,37 @@
+{
+  "currency": "INR",
+  "period": "monthly",
+  "default_fresher_max_monthly": 150000,
+  "bands": [
+    {
+      "role_keywords": ["intern", "internship", "trainee", "summer intern", "student intern"],
+      "min_monthly_inr": 5000,
+      "max_monthly_inr": 100000,
+      "typical_note": "Indian tech/business internships typically pay ₹5,000 to ₹1,00,000/month."
+    },
+    {
+      "role_keywords": ["data entry", "typing", "copy paste", "form filling", "back office", "part time", "captcha"],
+      "min_monthly_inr": 8000,
+      "max_monthly_inr": 28000,
+      "typical_note": "Entry-level data entry or back-office roles in India rarely exceed ₹28,000/month."
+    },
+    {
+      "role_keywords": ["fresher", "graduate engineer trainee", "get", "associate software engineer", "ase", "system engineer", "analyst"],
+      "min_monthly_inr": 18000,
+      "max_monthly_inr": 125000,
+      "typical_note": "Fresher engineering/analyst roles typically pay ₹18,000 to ₹1,25,000/month (₹2.2–15 LPA)."
+    },
+    {
+      "role_keywords": ["software engineer", "sde", "developer", "full stack", "backend", "frontend", "ai engineer", "data scientist"],
+      "min_monthly_inr": 25000,
+      "max_monthly_inr": 250000,
+      "typical_note": "Early-to-mid software roles in India typically pay ₹25,000 to ₹2,50,000/month."
+    },
+    {
+      "role_keywords": ["customer support", "telecaller", "bpo", "voice process", "chat support", "hr executive"],
+      "min_monthly_inr": 12000,
+      "max_monthly_inr": 45000,
+      "typical_note": "Support, BPO, and junior HR roles in India typically pay ₹12,000 to ₹45,000/month."
+    }
+  ]
+}

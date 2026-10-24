@@ -1,0 +1,10 @@
+google-genai
+gradio
+pydantic>=2.0
+httpx
+tldextract
+rapidfuzz
+pypdfium2
+pypdf
+Pillow
+python-dotenv
