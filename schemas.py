@@ -58,8 +58,8 @@ class CheckResult(BaseModel):
     """An independent verification check from Agent 2b (verify.py)."""
     id: str
     name: str
-    tier: Literal["strong", "supporting", "weak"]
-    status: Literal["passed", "failed", "unavailable"]
+    tier: Literal["strong", "supporting", "weak", "high", "medium", "low", "info"]
+    status: Literal["passed", "failed", "unavailable", "skipped", "info"]
     detail: str
     source: Literal["offline", "web"]
     score_delta: int = 0
@@ -94,7 +94,7 @@ class GemmaSynthesisOutput(BaseModel):
 class FinalReport(BaseModel):
     """Final SahiCheck output schema matching the Project Brief."""
     verdict: Literal["SAFE", "SUSPICIOUS", "SCAM"]
-    legitimacy_score: int = Field(ge=3, le=97)
+    legitimacy_score: int = Field(ge=1, le=99)
     evidence_coverage: Literal["low", "medium", "high"]
     summary: str
     red_flags: List[RedFlag] = Field(default_factory=list)

@@ -1,0 +1,21 @@
+/* Import self-hosted Plus Jakarta Sans via @fontsource package */
+@import "@fontsource/plus-jakarta-sans/400.css";
+@import "@fontsource/plus-jakarta-sans/500.css";
+@import "@fontsource/plus-jakarta-sans/600.css";
+@import "@fontsource/plus-jakarta-sans/700.css";
+@import "@fontsource/plus-jakarta-sans/800.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { font-family: "Plus Jakarta Sans", system-ui, sans-serif; }
+  body { @apply bg-surface text-on-surface; }
+}
+
+/* Spinner keyframe used by Lucide Loader2 */
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+.animate-spin { animation: spin 1s linear infinite; }

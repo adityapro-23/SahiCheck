@@ -1,5 +1,13 @@
+# SahiCheck v2 Python dependencies
+# Licenses: fastapi MIT · uvicorn BSD-3-Clause · python-multipart Apache-2.0
+#           pydantic MIT · httpx BSD · tldextract MIT · rapidfuzz MIT
+#           pypdfium2 Apache-2.0 · pypdf MIT · Pillow HPND · python-dotenv MIT
+#           google-genai Apache-2.0
+
 google-genai
-gradio
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+python-multipart>=0.0.9
 pydantic>=2.0
 httpx
 tldextract
